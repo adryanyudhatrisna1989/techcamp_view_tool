@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TechcampViewTool::Renderer.copyright 'Adryan Yudhatrisna', 'Production'
+```
 
 ## Development
 
